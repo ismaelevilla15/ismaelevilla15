@@ -1,18 +1,18 @@
-# 👋 Hello, Fellow Coders!
+## 👋 Hello, Fellow Coders!
 
 I'm Ismaele Villa, Computer science engineer @ Politecnico of Milan.
 
-## 💻 Tech Love
+### 💻 Tech Love
 
 - 💡 AI and cybersecurity lover
 - 🌐 Building a digital knowledge one commit at a time.
 
-## 🌈 Fun Facts
+### 🌈 Fun Facts
 
 - 🎧 Gabber at night.
 - 🌍 Bodybuilder in a parallel universe.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 name = Ismaele Villa
 email = ismaele.villa@mail.polimi.it
 - 🐦 "Add me on Linkedin %s" %(name)
