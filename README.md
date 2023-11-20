@@ -15,7 +15,8 @@ I'm Ismaele Villa, Computer science engineer @ Politecnico of Milan.
 ### 📫 Let's Connect
 name = Ismaele Villa
 
-email = ismaele.villa@mail.polimi.it
+email = ismaele[dot]villa[at]mail[dot]polimi[dot]it
+
 - 🐦 "Add me on Linkedin %s" %(name)
 - 📧 "Drop me an email at %s for serious stuff" %(email)
 
